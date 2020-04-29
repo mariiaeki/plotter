@@ -1,0 +1,33 @@
+
+\
+java:S2184ƒ"@Cast one of the operands of this integer division to a "double".(¥ï†¹øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓĞñ¯
+}
+java:S4144»"aUpdate this method so that its implementation is not identical to "getPreferredSize" on line 182.(×’•¯ıÿÿÿÿ
+}
+java:S4144À"aUpdate this method so that its implementation is not identical to "getPreferredSize" on line 182.(¸©°úÿÿÿÿ
+>
+java:S1659"#Declare "ySize" on a separate line.(°¢ûúÿÿÿÿ
+>
+java:S1659"#Declare "yStep" on a separate line.(ß‚à‰ùÿÿÿÿ
+8
+java:S1659"#Declare "yAxis" on a separate line.(Æ¡áP
+9
+java:S1659"#Declare "yGrid" on a separate line.(à‚ø
+;
+java:S1659"%Declare "yPoints" on a separate line.(à¥ ²
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È—ç
+<
+java:S1948"'Make "xAxis" transient or serializable.(Æ¡áP
+<
+java:S1948"'Make "yAxis" transient or serializable.(Æ¡áP
+=
+java:S1948"'Make "xGrid" transient or serializable.(à‚ø
+=
+java:S1948"'Make "yGrid" transient or serializable.(à‚ø
+F
+java:S1948"+Make "functions" transient or serializable.(¦¹Òüÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ó‘¸şÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ì‘ Ïüÿÿÿÿ
+N	java:S106€"9Replace this use of System.out or System.err by a logger.(ÂÜğt
